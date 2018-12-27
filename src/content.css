@@ -1,0 +1,34 @@
+/* src/content.css */
+
+.my-extension{
+    padding: 20px;
+}
+
+.my-extension h1{
+    color: #000;
+}
+.popup {
+    padding-left: 0px;
+    
+}
+.popup h5 {
+ color: rgb(165, 89, 17);
+}
+.note h5 {
+    color: rgb(165, 89, 17);
+}
+.button {
+    border: none;
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 8px;
+    margin: -1px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+
+.chart {
+    margin-left: 11px;
+}  
+  
